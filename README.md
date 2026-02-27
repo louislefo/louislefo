@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a engineer student at ESILV<br><br>
-
+I’m currently a engineer student at ESILV<br><br>
+Seeking a Data Science and Machine Learning Internship
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/louislefo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/louis-le-forestier-llf/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:louis.le_forestier@edu.devinci.fr) 
