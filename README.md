@@ -8,7 +8,7 @@ Engineering Student at **ESILV** (Data & AI Major - GenIA Specialization) | Inte
 
 ## About Me
 
-I am an engineering student specializing in **Generative AI, Data Engineering, and Full-Stack SaaS Systems**. My work focuses on building production-grade architectures, autonomous AI agents, predictive machine learning pipelines, and robust web applications.
+I am an engineering student specializing in **Generative AI, Autonomous AI Agents, Data Engineering, and Full-Stack Systems**. My work focuses on building production-grade architectures, agent-native protocols (MCP), predictive machine learning pipelines, and robust web applications.
 
 - **Current Education**: ESILV Paris La Defense (Data & AI Major, GenIA Track) &bull; Hanyang University Seoul (Exchange Semester)
 - **Professional Experience**: EBTrans (Data Quality & GPT Agent Automation), DeVinci Junior (Data & Lead Gen B2B), Societe Generale CIB (Structured Credit Trading Desk)
@@ -20,6 +20,7 @@ I am an engineering student specializing in **Generative AI, Data Engineering, a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**MatchMyStage**](https://github.com/louislefo/MatchMyStage) | Agent-native career co-pilot & ATS tracker with RAG-grounded resume tailoring, Model Context Protocol (MCP) server, and sub-second in-memory Typst compilation. | Python, FastAPI, Next.js 16, React 19, Typst, MCP, Async SQLAlchemy |
 | [**KeyStone-Ledger**](https://github.com/louislefo/saas-keyStone) | Automated financial auditing and certification SaaS platform processing accounting workflows. | TypeScript, SaaS Architecture, Financial Auditing |
 | [**Finly**](https://github.com/louislefo/Finly) | Self-hosted personal finance and wealth management PWA with bank synchronization and net worth tracking. | TypeScript, Next.js, React, PWA |
 | [**gemini-cli-api**](https://github.com/louislefo/gemini-cli-api) | High-performance FastAPI backend & CLI controlling Google Gemini Web via Chrome DevTools Protocol. | Python, FastAPI, CDP Protocol, AsyncIO |
@@ -31,8 +32,10 @@ I am an engineering student specializing in **Generative AI, Data Engineering, a
 
 ## Tech Stack
 
-### Generative AI & Machine Learning
+### Generative AI, Agents & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-8A2BE2?style=flat-square)
+![Typst](https://img.shields.io/badge/Typst-Compiler-239DAD?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -50,7 +53,9 @@ I am an engineering student specializing in **Generative AI, Data Engineering, a
 ### Systems, Data & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
