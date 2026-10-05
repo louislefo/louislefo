@@ -20,7 +20,7 @@ I am an engineering student specializing in **Generative AI, Autonomous AI Agent
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**MatchMyStage**](https://github.com/louislefo/MatchMyStage) | Agent-native career co-pilot & ATS tracker with RAG-grounded resume tailoring, Model Context Protocol (MCP) server, and sub-second in-memory Typst compilation. | Python, FastAPI, Next.js 16, React 19, Typst, MCP, Async SQLAlchemy |
+| [**MatchMyStage**](https://github.com/louislefo/MatchMyStage-Showcase) | Agent-native career co-pilot & ATS tracker with RAG-grounded resume tailoring, Model Context Protocol (MCP) server, and sub-second in-memory Typst compilation. | Python, FastAPI, Next.js 16, React 19, Typst, MCP, Async SQLAlchemy |
 | [**KeyStone-Ledger**](https://github.com/louislefo/saas-keyStone) | Automated financial auditing and certification SaaS platform processing accounting workflows. | TypeScript, SaaS Architecture, Financial Auditing |
 | [**Finly**](https://github.com/louislefo/Finly) | Self-hosted personal finance and wealth management PWA with bank synchronization and net worth tracking. | TypeScript, Next.js, React, PWA |
 | [**gemini-cli-api**](https://github.com/louislefo/gemini-cli-api) | High-performance FastAPI backend & CLI controlling Google Gemini Web via Chrome DevTools Protocol. | Python, FastAPI, CDP Protocol, AsyncIO |
